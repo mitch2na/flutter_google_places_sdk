@@ -15,7 +15,7 @@ dependencies:
   flutter_google_places_sdk_web:
     git:
       url: https://github.com/mitch2na/flutter_google_places_sdk.git
-      ref: main
+      ref: master
       path: flutter_google_places_sdk_web
   flutter_google_places_sdk_android: ^0.1.8
   flutter_google_places_sdk_windows: ^0.1.4
